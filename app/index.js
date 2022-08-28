@@ -1,0 +1,5 @@
+import './main.css'
+import './funck/anc.js'
+import './listeners/anc.js'
+import './listeners/difficulty.js'
+import './gameFunck/game.js'
